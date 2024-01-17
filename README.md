@@ -1,4 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Federico Degiovanni===========================================================================================================================================Sr Software Engineer and teacher--------------------------------I am passionate about technology. Currently, I am focused on obtaining my Systems Engineering degree at the National Technological University. I started my career as a full stack developer, doing: backend, APIs, web frontend and mobile applications. I even dabbled in augmented reality apps for a while. For some time now, I decided to focus on frontend development, specializing in React and JavaScript. At the same time, I began teaching classes in the Bachelor's Degree in Video Game Production at the National University of Rafaela. In the laboratory, together with my students, we create 2 2D video game prototypes in HTML5 per semester. Outside of the technological field, I love cycling to enjoy the outdoors and stay active, when I can I practice archery. I also have a great interest in astronomy. I love sharing my experiences and knowledge.* 🌍  I'm based in Argentina* ✉️  You can contact me at [federicoadegiovanni@gmail.com](mailto:federicoadegiovanni@gmail.com)* ⚡  Traducir es comprender
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there
+
+## Federico Degiovanni
+
+### Sr Software Engineer and teacher
+
+I am passionate about technology.
+
+Currently, I am focused on obtaining my Systems Engineering degree at the Universidad Tecnológica Nacional.
+
+I started my career as a full stack developer, doing: backend, APIs, web frontend and mobile applications. I even dabbled in augmented reality apps for a while. 
+
+For some time now, I decided to focus on frontend development, specializing in React and JavaScript. At the same time, I began teaching classes in the Bachelor's Degree in Video Game Production at the National University of Rafaela. In the laboratory, together with my students, we create 2 2D video game prototypes in HTML5 per semester.
+
+Outside of the technological field, I love cycling to enjoy the outdoors and stay active, when I can I practice archery. I also have a great interest in astronomy.
+
+I love sharing my experiences and knowledge.
+
+* 🌍  I'm based in Argentina*
+* ✉️  You can contact me at [federicoadegiovanni@gmail.com](mailto:federicoadegiovanni@gmail.com)
+* ⚡  Traducir es comprender
 
 ### Skills
 
