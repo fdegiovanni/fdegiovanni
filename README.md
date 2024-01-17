@@ -39,6 +39,6 @@ I love sharing my experiences and knowledge.
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/fdegiovanni"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://cafecito.app/fdegiovanni"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" width="150"/></a></li>
 
 </ul>
