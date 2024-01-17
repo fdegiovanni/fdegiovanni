@@ -37,8 +37,5 @@ I love sharing my experiences and knowledge.
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://cafecito.app/fdegiovanni"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" width="50"/>Comprame un cafecito</a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://cafecito.app/fdegiovanni"><img src="https://cdn.cafecito.app/imgs/cafecito_logo.svg" width="150"/></a></li>
-
-</ul>
